@@ -43,3 +43,10 @@ What is the relationship between trip distance and fare amount ?
 ## Results/Findings
 Customers paying with cards tend to have a slightly higher average trip distance and fare amount compared to those paying with cash.
 Customers paysmore  with cards when they have high fare amount long distance trip
+
+## Recommedation
+1.Discounts on Fare: Offer a flat discount or percentage off the fare for customers who choose to pay with a credit card. For example, you could offer a 5% discount on the total fare for credit card transactions.
+
+2.Promotional Codes: Issue promotional codes or coupons that customers can use to receive discounts specifically for credit card payment
+
+3.Promote Safety and Convenience: Emphasize the safety and convenience of paying with credit cards. Highlight features such as contactless payments, secure transactions, and the ability to track expenses easily.
